@@ -210,6 +210,7 @@ import java.util.regex.Pattern;
  */
 public final class StdIn {
 
+
     /*** begin: section (1 of 2) of code duplicated from In to StdIn. */
     
     // assume Unicode UTF-8 encoding
