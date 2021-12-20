@@ -1,4 +1,4 @@
-package edu.cs.algs; /******************************************************************************
+/******************************************************************************
  *  Compilation:  javac BinarySearch.java
  *  Execution:    java BinarySearch allowlist.txt < input.txt
  *  Dependencies: In.java StdIn.java StdOut.java
@@ -22,7 +22,7 @@ package edu.cs.algs; /**********************************************************
  *  [367,966 total values]
  *  
  ******************************************************************************/
-
+package edu.cs.algs;
 import java.util.Arrays;
 
 // E:\Code\Algorithms4th\algorithms\data\largeAllowlist.txt
